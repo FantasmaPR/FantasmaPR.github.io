@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>El Universo Gaming</title>
+	<link rel="stylesheet" href="proyecto.css">
+	<meta charset="UTF-8">
+</head>
+<body>
+	<center>
+	<h1>El Universo Gaming </h1>
+	<img id="TopImg" src="logo2.jpg" alt="Imagen aqui" <area height="380" width="900"> 
+<br /><br />
+		
+ <div class="Menubackground">
+            <ul>
+                <Menubutton> <a href="JBHome.html">Menu Principal</a>  </Menubutton>
+				<Menubutton> <a href="JBHome.html">Xbox</a>  </Menubutton>
+                <Menubutton> <a href="JBChart.html">Playstation</a> </Menubutton>
+                <Menubutton> <a href="JBVideos.html">Nintendo</a> </Menubutton>
+                <Menubutton> <a href="JBAboutme.html">PC Gaming</a> </Menubutton>
+            </ul>
+        </div>
+<br />
+<hr class="new1">
+</center>
+<br />
+	<h2>Que es el gaming?
+
+
+
+
+
+
+</body>
+</html>

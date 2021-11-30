@@ -1,0 +1,81 @@
+body {
+    background-color: #330363;
+}
+
+p,h2,h3{
+    color: white ;
+    background-color: transparent;
+  }
+
+#TopImg {
+    border-radius: 10px;
+    border: 2px solid white;
+    padding: 6px;
+}
+Menubutton {
+    background-color: #021B34;
+    border-radius: 10px;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+   display: inline-block;
+}
+a:link {
+    color: white;
+    background-color: transparent;
+  }
+a:visited {
+    color: #6b1431;
+    background-color: transparent;
+  }
+hr.new1 {
+  border: 1px solid black;
+}
+h1{
+    color: white ;
+    background-color: transparent;
+  }
+ h1{
+    font-family: Arial-Narrow;
+    padding: 2px;
+    margin-top: 2px;
+}
+h2{
+  margin-left: 80px;
+   font-size: 40px;
+}
+#test1 {
+    background-color: black;
+}
+p {
+   font-size: 25px;
+}
+h3{
+  margin-left: 80px;
+   font-size: 30px;
+}
+table, th, td {
+	color: white;
+  border:1px solid white;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+tr,th,td:nth-child(even) {background-color: black;}
+
+a:visited {
+    color: hotpink;
+    background-color: transparent;
+}
+a:hover{
+  color: purple;
+}
+#link {
+  color: white;
+}
+#link:hover{
+  color: blue;
+}
+
+   
