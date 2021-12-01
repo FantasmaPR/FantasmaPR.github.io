@@ -17,7 +17,7 @@
  <div class="Menubackground">
             <ul>
                 <Menubutton> <a id="link" href="Menu.html">Menú Principal</a>  </Menubutton>
-				<Menubutton id="xbox"> <a id="link" href="Xbox.html">Xbox</a>  </Menubutton>
+		<Menubutton id="xbox"> <a id="link" href="Xbox.html">Xbox</a>  </Menubutton>
                 <Menubutton> <a id="link" href="Playstation.html">Playstation</a> </Menubutton>
                 <Menubutton> <a id="link" href="Nintendo.html">Nintendo</a> </Menubutton>
                 <Menubutton> <a id="link" href="PC.html">PC Gaming</a> </Menubutton>
