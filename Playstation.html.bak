@@ -16,8 +16,8 @@
 
  <div class="Menubackground">
             <ul>
-                <Menubutton> <a id="link" href="Menu.html">Menu Principal</a>  </Menubutton>
-				<Menubutton> <a id="link" href="Xbox.html">Xbox</a>  </Menubutton>
+                <Menubutton> <a id="link" href="Menu.html">Menú Principal</a>  </Menubutton>
+		<Menubutton> <a id="link" href="Xbox.html">Xbox</a>  </Menubutton>
                 <Menubutton id="ps"> <a id="link" href="Playstation.html">Playstation</a> </Menubutton>
                 <Menubutton> <a id="link" href="Nintendo.html">Nintendo</a> </Menubutton>
                 <Menubutton> <a id="link" href="PC.html">PC Gaming</a> </Menubutton>
@@ -46,7 +46,7 @@
 		<tr>
 			<td style="color:hotpink;">PlayStation 2 y PlayStation Slim</td>
 			<td>2000-2013</td>
-			<td>Esta consola fue la segunda que lanzo Sony en el año 2000, fue parte de la segunda generación de consolas. Esta consola estuvo en el mercado desde el año 2000-2013,tiene el record de la consola mas longeva de la historia.Ademas de la versión original estuvo la PlayStation 2 slim con un puerto de Ethernet y fue la primera consola con disco duro.Esta consola fue la segunda que lanzo Sony en el año 2000, fue parte de la segunda generación de consolas. Esta consola estuvo en el mercado desde el año 2000-2013,tiene el récord de la consola más longeva de la historia.Además de la versión original estuvo la PlayStation 2 slim con un puerto de Ethernet y fue la primera consola con disco duro.
+			<td>Esta consola fue la segunda que lanzo Sony en el año 2000, fue parte de la segunda generación de consolas. Esta consola estuvo en el mercado desde el año 2000-2013,tiene el record de la consola mas longeva de la historia.Ademas de la versión original estuvo la PlayStation 2 slim con un puerto de Ethernet y fue la primera consola con disco duro.Esta consola fue la segunda que lanzo Sony en el año 2000, fue parte de la segunda generación de consolas. Esta consola estuvo en el mercado desde el año 2000-2013,tiene el récord de la consola más longeva de la historia.Además de la versión original estuvo la PlayStation 2 slim con un puerto de Ethernet y fue la primera consola con disco duro.</td>
 		<tr>
 			<td style="color:hotpink;">PSP</td>
 			<td>2004-2014</td>
@@ -74,7 +74,7 @@
 		</tr>
 	</table>
 <p>Evolución de los PlayStation:<P>
-<img src="psevo.JPG" alt="Evolución" style="width:400px;height:250px;">	
+<img src="psevo.jpg" alt="Evolución" style="width:400px;height:250px;">	
 
 
  </body>

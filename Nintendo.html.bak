@@ -16,8 +16,8 @@
 		
  <div class="Menubackground">
             <ul>
-                <Menubutton> <a id="link" href="Menu.html">Menu Principal</a>  </Menubutton>
-				<Menubutton> <a id="link" href="Xbox.html">Xbox</a>  </Menubutton>
+                <Menubutton> <a id="link" href="Menu.html">Menú Principal</a>  </Menubutton>
+		<Menubutton> <a id="link" href="Xbox.html">Xbox</a>  </Menubutton>
                 <Menubutton> <a id="link" href="Playstation.html">Playstation</a> </Menubutton>
                 <Menubutton id="nintendo"> <a id="link" href="Nintendo.html">Nintendo</a> </Menubutton>
                 <Menubutton> <a id="link" href="PC.html">PC Gaming</a> </Menubutton>
@@ -88,7 +88,7 @@
 			<td>El Nintendo Switch se dio a conocer el 20 de octubre del 2016 y fue lanzada mundialmente el 3 de marzo de 2017. Nintendo vendió mas de 2,74 millones de unidades de la consola en su primer mes de estar en venta, esta se convirtió en la consola de sobremesa que mas rápido se ha vendido de su historia. Al cabo de dos años exactamente el 20 de septiembre de 2019 lanzaron al mercado una versión revisada de Nintendo Switch manteniendo el tamaño de la versión antigua pero con una mayor duración de batería. La mas reciente noticia fue dada el 6 de julio de 2021 donde Nintendo anuncio oficialmente un nuevo modelo, llamado Nintendo Switch OLED este fue lanzado el 8 de octubre de 2021 junto con el lanzamiento del juego Metroid Dread, con un precio de $349.99, la única diferencia de esta consola a las anteriores es que la pantalla es un poco mas grande.</td>
 		</tr>	
 	</table>
-<img  src="nintendo2evo.PNG" alt="Imagen aqui" <area height="500" width="700"> <img id="nin" src="nintendoevo1.jpg" alt="Imagen aqui" <area height="500" width="700"> 
+<img  src="nintendo2evo.png" alt="Imagen aqui" <area height="500" width="700"> <img id="nin" src="nintendoevo1.jpg" alt="Imagen aqui" <area height="500" width="700"> 
 	
 	
 	
